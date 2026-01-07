@@ -60,11 +60,6 @@
 │   └── main.js
 └── README.md
 
----
-
-## 截图展示 (Screenshots)
-<img width="2559" height="1347" alt="ae4a9ffb-4ac4-48ef-b72d-cb31f694a9ea" src="https://github.com/user-attachments/assets/3a958742-c555-479b-8526-7c95f0cc034c" />
-<img width="2559" height="1347" alt="1a477468-5435-42ca-860e-3139761dca39" src="https://github.com/user-attachments/assets/a3d35bfa-8070-471c-954d-487a5f36db3e" />
 
 
 
