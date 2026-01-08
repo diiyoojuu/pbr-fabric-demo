@@ -62,8 +62,8 @@ let animationId;
 // --- 环境光配置 (HDR) ---
 // 面试话术：使用 EXR/HDR 格式的高动态范围贴图，模拟真实物理光照反射
 const envOptions = {
-    room: { name: '室内摄影棚', url: '/assets/exr/royal_esplanade_4k.exr' },
-    outDoor: { name: '户外自然光', url: '/assets/exr/river_alcove_4k.exr' }
+    room: { name: '室内摄影棚', url: '/assets/exr/royal_esplanade_1k.exr' },
+    outDoor: { name: '户外自然光', url: '/assets/exr/river_alcove_1k.exr' }
 };
 
 // --- 材质预设配置 (Data-Driven) ---
