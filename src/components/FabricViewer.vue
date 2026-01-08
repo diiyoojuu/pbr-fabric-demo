@@ -272,6 +272,10 @@ const loadAssets = async () => {
         const box = new THREE.Box3().setFromObject(model);
         const center = box.getCenter(new THREE.Vector3());
         model.position.sub(center);
+
+        // 放大模型
+        model.scale.set(3, 3, 3);
+
         scene.add(model);
 
         // 6. 【关键修复】初始化完成后，立即调用材质切换函数应用第0个预设
